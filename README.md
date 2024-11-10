@@ -9,3 +9,5 @@
 
 ### Scrabble
 <a href="https://woogles.io/profile/zvfrozel"><img src="https://github.com/user-attachments/assets/5665cbd7-39e0-4a40-8337-fcb70e045b41" height="100" alt="Woogle.io Profile"></a>
+
+I speak [മലയാളം](https://en.wikipedia.org/wiki/Malayalam).
