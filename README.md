@@ -1,6 +1,5 @@
-👋 Hi, I’m @zvfrozel!
+👋 Hi, I’m Abel George Mathew.
 
-<!---
-zvfrozel/zvfrozel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My interests
+1. Pure Math <a href="https://sites.google.com/view/online-math-club"><img src="https://github.com/user-attachments/assets/0f146ae3-4da5-4d9c-a179-c30e59aca854" height="100" alt="Math Club Icon"></a>
+2. Chess <a href="https://www.chess.com/member/ZVFrozel"><img src="https://github.com/user-attachments/assets/fbe4e53f-cd05-42e8-9b76-e03253b49883" height="100" alt="Chess.com Icon"></a>
