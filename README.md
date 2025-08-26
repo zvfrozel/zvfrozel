@@ -1,6 +1,6 @@
 👋 Hi, I’m Abel George Mathew.
 
-## I'm interested in..
+### I'm interested in..
 ### Pure Math
 <a href="https://sites.google.com/view/online-math-club"><img src="https://github.com/user-attachments/assets/0f146ae3-4da5-4d9c-a179-c30e59aca854" height="100" alt="Math Club Icon"></a>
 
