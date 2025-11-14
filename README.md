@@ -10,6 +10,4 @@
 ### Scrabble
 <a href="https://woogles.io/profile/zvfrozel"><img src="https://github.com/user-attachments/assets/5665cbd7-39e0-4a40-8337-fcb70e045b41" height="100" alt="Woogles.io Profile"></a>
 
-I speak [മലയാളം](https://en.wikipedia.org/wiki/Malayalam).
-
 [Link to my website](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
